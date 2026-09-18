@@ -5,7 +5,8 @@
 #   ro_RO.dic / ro_RO.aff, MPL 1.1 / GPL 2.0 / LGPL 2.1) — the SAME pinned files T002's manifest
 #   verifies by sha256 (pipeline/manifest.json). Affix-expanded and morphologically curated.
 # - Editorial frequency filtering and allowlist curation consulted FrequencyWords
-#   (Hermit Dave / OpenSubtitles, CC-BY-SA 4.0) for prefix allowlist and loanword attestation.
+#   (Hermit Dave / OpenSubtitles, CC-BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/)
+#   for prefix allowlist and loanword attestation.
 # - Structurally filtered (pipeline.drops, 7 rules — untraceable forms, incl. forms >16 letters, excluded).
 #
 # Collation Order:
